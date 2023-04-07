@@ -13,8 +13,10 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 
 ## Neural Network Model
 
-![OP1](In.png)
-![OP1](In1.png)
+![IN](https://user-images.githubusercontent.com/93901857/230557691-59cf0067-a91f-4466-8ef3-ad4367e2f2a4.png)
+
+![IN1](https://user-images.githubusercontent.com/93901857/230557701-84091acd-f523-498b-be7e-cfb806f3192d.png)
+
 
 
 Flattened input to hidden layer and then output layer 
